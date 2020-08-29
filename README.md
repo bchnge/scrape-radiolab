@@ -1,3 +1,3 @@
 # scrape-radiolab
 
-## Scrape radiolab episodes from wnyc using scrapy.
+## Procedure for scraping radiolab episodes from wnyc.
